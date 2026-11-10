@@ -23,6 +23,6 @@ pip install -r requirements.txt
 jupyter notebook
 
 ## Project Structure
-- notebook.ipynb: full analysis
-- data/: dataset (not tracked by Git)
-- requirements.txt: dependencies
+   - notebooks/notebook.ipynb: full analysis
+   - data/: dataset (not tracked by Git)
+   - requirements.txt: dependencies
